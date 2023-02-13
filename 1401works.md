@@ -271,7 +271,9 @@
 | پوری | مارگاریتا | <a href="https://open.spotify.com/track/72QQ5nAWzWJKxr644ytan8?si=ca850acb798d40b4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مدگل | به خود آی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 021kid & Ess2Mad | Business Man | <a href="https://open.spotify.com/track/1Ht3NqvtxKvgJ9POlB0f9T?si=d42164281f4f411f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
+| شالو احمد | زندگی کنارِ دریا | <a href="https://on.soundcloud.com/dWNr3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+  | شالو احمد و تاحر | SEAHOOD CYPHER | <a href="[https://soundcloud.com/user-137943779/cwibks3efug3](https://on.soundcloud.com/eLzbR)"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+  
 </div>
 
 ### اینسترومنتال‌ها
